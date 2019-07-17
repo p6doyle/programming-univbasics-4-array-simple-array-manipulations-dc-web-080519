@@ -36,5 +36,5 @@ def using_concat(array)
 end
 
 def using_insert(array, element)
-  array.insert(3, "Ruby")
+  array.insert(3, "Python")
 end
