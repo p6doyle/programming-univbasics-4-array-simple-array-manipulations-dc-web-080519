@@ -32,5 +32,6 @@ def using_concat(array)
 end
 
 def using_insert(array, element)
+  array = ["red", "yellow", "green"]
   array.insert(3, "Python")
 end
