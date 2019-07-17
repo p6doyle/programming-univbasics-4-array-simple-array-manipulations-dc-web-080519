@@ -27,8 +27,8 @@ def shift_with_args(array)
   ice_cream_brands.shift(2)
 end
 
-def using_concat(array)
-  array.concat(["sports cars", "flatiron school"])
+def using_concat(array1, array2)
+  array1.concat([array2])
 end
 
 def using_insert(array, element)
